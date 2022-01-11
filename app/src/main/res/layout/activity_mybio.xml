@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    tools:context=".MainActivity"
+    android:background="@drawable/bkmenu">
+
+    <TextView
+        android:id="@+id/txBio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/profile"
+        android:textColor="@color/white"
+        android:textSize="19sp"
+        android:layout_marginBottom="24dp"
+        />
+
+    <ImageView
+        android:id="@+id/gambarkn"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:src="@drawable/kn"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="16dp"
+        />
+
+    <TextView
+        android:id="@+id/txNama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:text="@string/nama"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/white"/>
+
+        />
+    <TextView
+        android:id="@+id/txNim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:text="NIM : 180201018"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/txProgram_Studi"
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Program Studi : Sistem Informasi"
+        android:textStyle="italic"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/txHobi"
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Hobi : Olahraga, Memancing, Membaca"
+        android:textStyle="italic"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

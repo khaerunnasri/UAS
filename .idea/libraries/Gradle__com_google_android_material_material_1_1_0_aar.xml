@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../PERTEMUAN 1/Menggunakan Api/SimpleAPIAccess-Volley-KursRupiah-main/caches/transforms-2/files-2.1/0c7fcc8a97f042e68b1c574b2ffeaf0b/material-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PERTEMUAN 1/Menggunakan Api/SimpleAPIAccess-Volley-KursRupiah-main/caches/transforms-2/files-2.1/0c7fcc8a97f042e68b1c574b2ffeaf0b/material-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../PERTEMUAN 1/Menggunakan Api/SimpleAPIAccess-Volley-KursRupiah-main/caches/transforms-2/files-2.1/0c7fcc8a97f042e68b1c574b2ffeaf0b/material-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../PERTEMUAN 1/Menggunakan Api/SimpleAPIAccess-Volley-KursRupiah-main/caches/transforms-2/files-2.1/0c7fcc8a97f042e68b1c574b2ffeaf0b/material-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../PERTEMUAN 1/Menggunakan Api/SimpleAPIAccess-Volley-KursRupiah-main/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0/7ba5bcd622e3d6d7ab6b9833717c4385e4ba0a51/material-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0/7ba5bcd622e3d6d7ab6b9833717c4385e4ba0a51/material-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

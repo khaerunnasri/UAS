@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">All kinds of animals in the world</string>
+    // Layout
+    <string name="pilih_gambar">Select image to open gallery</string>
+    <string name="pilih_profil">Click button to open profile</string>
+    <string name="daftar_jenis_judul">Animal Type List</string>
+    <string name="pilih_hewan">Click the picture to see the type of animal</string>
+    <string name="ras">Animal Race List</string>
+    <string name="profile">MY BIO</string>
+    <string name="jurusan">Major : Information System</string>
+    <string name="hobi">Hobbies: Sports, Fishing, Reading</string>
+    <string name="go_back">return</string>
+    <string name="ayam">Chicken</string>
+    <string name="burung">Bird</string>
+    <string name="ikan">Fish</string>
+    <string name="ayam_list_title">List of Chickens</string>
+    <string name="burung_list_title">List of Birds</string>
+    <string name="ikan_list_title">Fish Type List</string>
+    // Data ayam
+    <string name="kapas_ayam">Cotton Chicken</string>
+    <string name="kapas_asal">China</string>
+    <string name="kapas_deskripsi">Silk chicken or cotton chicken is a breed of chicken that is named after its smooth and silky feel</string>
+    <string name="orpingtond_ayam">Orpington Chicken</string>
+    <string name="orpington_asal">South East England</string>
+    <string name="orpington_deskripsi">The Orpington is a British breed of chicken. It was bred in the late nineteenth century by William Cook of Orpington, Kent in southeast England</string>
+    <string name="kedu_ayam">Kedu Chicken</string>
+    <string name="kedu_asal">Indonesia</string>
+    <string name="kedu_deskripsi">Chicken kedu, chicken basil, or chicken cemani are local chicken breeds that have been developed in Java since the 12th century. Cemani chicken has a dominant gene that causes</string>
+    <string name="wyandotted_ayam">Wyandotte Chicken</string>
+    <string name="wyandotte_asal">North America</string>
+    <string name="wyandotte_deskripsi">The Wyandotte is a dual purpose breed, raised for its brown eggs and yolk-skinned flesh.</string>
+    <string name="shamo_ayam">Shamo Chicken</string>
+    <string name="shamo_asal">Thailand</string>
+    <string name="shamo_deskripsi">The Shamo breed is thought to have originated from Malay-type fighting cocks brought from Thailand in the early seventeenth century.</string>
+    <string name="serama_ayam">Serama Chicken</string>
+    <string name="serama_asal">Malaysia</string>
+    <string name="serama_deskripsi">Translated from English-Serama, also called Malaysian Serama, is a type of bantam chicken that originated in Malaysia in the last 50 <years></years></string>
+    // Data burung
+    <string name="turako_burung">turako bird</string>
+    <string name="turako_asal">south Africa</string>
+    <string name="turako_deskripsi">Turacos make up the bird family Musophagidae, which includes plantain eaters and goblins. In southern Africa</string>
+    <string name="sphenisciformes_burung">Sphenisciformes bird</string>
+    <string name="sphenisciformes_asal">Antarctica</string>
+    <string name="sphenisciformes_deskripsi">Penguins or penguins (order Sphenisciformes, family Spheniscidae) are aquatic animals that can not fly and generally live in the Southern Hemisphere.</string>
+    <string name="cerek_burung">plover bird</string>
+    <string name="cerek_asal">Indonesia</string>
+    <string name="cerak_deskripsi">The Javan plover is a type of parrot or shorebird that is relatively small in size. Originally thought to be a bird endemic to the island of Java, it is now known that the Javan plover is widespread in many coastal areas in <Indonesia></Indonesia></string>
+    <string name="sulidae_burung">Sulidae bird</string>
+    <string name="sulidae_asal">Australia</string>
+    <string name="sulidae_deskripsi">The bird family Sulidae consists of gannets and boobies. Collectively called sulfides, they are medium-large coastal seabirds that plunge in search of fish and similar prey</string>
+    <string name="otididae_burung">Otididae bird</string>
+    <string name="otididae_asal">African Bustard</string>
+    <string name="otididae_deskripsi">is a large land bird that lives mainly in dry prairie areas and in the steppes of the Old World</string>
+    <string name="dara_laut_burung">Sea Pigeon bird</string>
+    <string name="dara_Laut_asal">Antarctic Waters</string>
+    <string name="dara_laut_deskripsi">The tern is a seabird in the Sternidae family, still related to the Seagull. Pigeons can be found all over the <world></world></string>
+    // Data ikan
+    <string name="mandarin_ikan">Mandarin Fish</string>
+    <string name="mandarin_asal">Pacific Ocean</string>
+    <string name="mandarin_deskripsi">Mandarin fish are small, brightly colored fish that belong to the dragonet family, which are well-known in the saltwater aquarium business. Mandarin fish are native to the Pacific Ocean, ranging from the Ryukyu Islands to Australia</string>
+    <string name="matahari_ikan">Sun Fish</string>
+    <string name="matahari_asal">Tropical Waters</string>
+    <string name="matahari_deskripsi">Translated from English-The common sunfish or sunfish is one of the two heaviest known bony fishes in the world, the other being the southern sunfish of the same genus.</string>
+    <string name="raja_herring_ikan">King Herring</string>
+    <string name="raja_herring_asal">Pelagic Zone</string>
+    <string name="raja_herring_deskripsi">The King Herring is a species of oarfish in the family Regalecidae</string>
+    <string name="zebra_ikan">Zebra Fish</string>
+    <string name="zebra_asal">South Asia</string>
+    <string name="zebra_deskripsi">The zebrafish is a species of fish surnamed Danio from the siprinide family</string>
+    <string name="leter_enam_ikan">Six Letters Fish</string>
+    <string name="leter_enam_asal">Indo-Pacific</string>
+    <string name="leter_enam_deskripsi">Paracanthurus hepatus is one of the fish species that live in coral <reefs></reefs></string>
+    <string name="molly_ikan">Molly Fish</string>
+    <string name="molly_asal">Mexico</string>
+    <string name="molly_deskripsi">Molly fish (Poecilia sphenops) is one type of pet fish that is quite popular among <aquarists class=""></aquarists></string>
+    // Data profil
+    <string name="nama">Name  :</string>
+    <string name="nim">NIM  :</string>
+    <string name="prodi">Major  :</string>
+    <string name="alamat">Address  :</string>
+
+</resources>

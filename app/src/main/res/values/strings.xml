@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Macam-macam hewan di dunia</string>
+    // Layout
+    <string name="pilih_gambar">Pilih gambar untuk membuka galeri</string>
+    <string name="pilih_profil">klik tombol untuk membuka profil</string>
+    <string name="daftar_jenis_judul">Daftar Jenis Hewan</string>
+    <string name="pilih_hewan">Klik gambar untuk melihat jenis hewan</string>
+    <string name="ras">Daftar Ras Hewan</string>
+    <string name="profile">BIO SAYA</string>
+    <string name="jurusan">Jurusan : Sistem Informasi </string>
+    <string name="hobi">Hobi : Olahraga, Memancing, Membaca</string>
+    <string name="go_back">Kembali</string>
+    <string name="ayam">Ayam</string>
+    <string name="burung">Burung</string>
+    <string name="ikan">Ikan</string>
+    <string name="ayam_list_title">Daftar Jenis Ayam</string>
+    <string name="burung_list_title">Daftar Jenis Burung</string>
+    <string name="ikan_list_title">Daftar Jenis Ikan</string>
+    // Data ayam
+    <string name="kapas_ayam">Ayam Kapas</string>
+    <string name="kapas_asal">Tiongkok</string>
+    <string name="kapas_deskripsi">Ayam sutra atau ayam kapas adalah ras ayam yang dinamakan sesuai bulunya yang halus dan terasa seperti sutra</string>
+    <string name="orpingtond_ayam">Ayam Orpington</string>
+    <string name="orpington_asal">Tenggara Inggris</string>
+    <string name="orpington_deskripsi">Orpington adalah jenis ayam Inggris. Itu dibesarkan pada akhir abad kesembilan belas oleh William Cook dari Orpington, Kent di tenggara Inggris</string>
+    <string name="kedu_ayam">Ayam Kedu</string>
+    <string name="kedu_asal">Indonesia</string>
+    <string name="kedu_deskripsi">Ayam kedu, ayam selasih, atau ayam cemani adalah ras ayam lokal yang telah dikembangkan di di Pulau Jawa sejak abad ke-12. Ayam cemani memiliki gen dominan yang menyebabkan</string>
+    <string name="wyandotted_ayam">Ayam Wyandotte</string>
+    <string name="wyandotte_asal">Amerika Utara</string>
+    <string name="wyandotte_deskripsi">Wyandotte adalah jenis tujuan ganda, dipelihara untuk telur coklatnya dan dagingnya yang berkulit kuning.</string>
+    <string name="shamo_ayam">Ayam Shamo</string>
+    <string name="shamo_asal">Thailand</string>
+    <string name="shamo_deskripsi">Trah Shamo diperkirakan berasal dari pertempuran ayam jenis Melayu yang dibawa dari Thailand pada awal abad ketujuh belas.</string>
+    <string name="serama_ayam">Ayam Serama</string>
+    <string name="serama_asal">Malaysia</string>
+    <string name="serama_deskripsi">Diterjemahkan dari bahasa Inggris-Serama, juga disebut Serama Malaysia, adalah jenis bantam ayam yang berasal dari Malaysia dalam 50 tahun terakhir</string>
+    // Data burung
+    <string name="turako_burung">Burung Turako</string>
+    <string name="turako_asal">Afrika Selatan</string>
+    <string name="turako_deskripsi">Turacos membentuk keluarga burung Musophagidae, yang termasuk pemakan pisang raja dan burung yang pergi. Di Afrika bagian selatan</string>
+    <string name="sphenisciformes_burung">Burung Sphenisciformes</string>
+    <string name="sphenisciformes_asal">Antartika</string>
+    <string name="sphenisciformes_deskripsi">Penguin atau pinguin (ordo Sphenisciformes, famili Spheniscidae) adalah hewan akuatik jenis burung yang tidak bisa terbang dan secara umum hidup di belahan Bumi selatan</string>
+    <string name="cerek_burung">Burung Cerek</string>
+    <string name="cerek_asal">Indonesia</string>
+    <string name="cerak_deskripsi">Cerek jawa adalah sejenis burung perandai atau burung pantai yang berukuran relatif kecil. Semula diduga merupakan burung endemik Pulau Jawa, kini diketahui bahwa cerek jawa menyebar luas di banyak wilayah pesisir di Indonesia </string>
+    <string name="sulidae_burung">Burung_Sulidae</string>
+    <string name="sulidae_asal">Australia</string>
+    <string name="sulidae_deskripsi">Keluarga burung Sulidae terdiri dari gannet dan boobies. Secara kolektif disebut sulfida, mereka adalah burung laut pesisir menengah-besar yang terjun untuk mencari ikan dan mangsa serupa</string>
+    <string name="otididae_burung">Burung Otididae</string>
+    <string name="otididae_asal">Bustard Afrika</string>
+    <string name="otididae_deskripsi">adalah burung darat besar yang hidup terutama di daerah padang rumput kering dan di stepa Dunia Lama</string>
+    <string name="dara_laut_burung">Burung Dara Laut</string>
+    <string name="dara_Laut_asal">Perairan Antartika</string>
+    <string name="dara_laut_deskripsi">Dara-laut adalah burung laut di dalam keluarga Sternidae, masih berkerabat dengan Burung Camar. Burung Dara-laut dapat ditemukan di seluruh dunia</string>
+    // Data ikan
+    <string name="mandarin_ikan">Ikan Mandarin</string>
+    <string name="mandarin_asal">Samudra Pasifik</string>
+    <string name="mandarin_deskripsi">Ikan mandarin adalah ikan kecil berwarna cerah yang termasuk dalam familia dragonet, yang terkenal dalam bisnis akuarium air laut. Ikan mandarin berasal dari Samudera Pasifik, berkisar dari Kepulauan Ryukyu hingga Australia</string>
+    <string name="matahari_ikan">Ikan Matahari</string>
+    <string name="matahari_asal">Perairan Tropis</string>
+    <string name="matahari_deskripsi">Diterjemahkan dari bahasa Inggris-Mola-mola laut atau mola umum adalah salah satu dari dua ikan bertulang terberat yang diketahui di dunia, yang lainnya adalah mola-mola selatan dari genus yang sama.</string>
+    <string name="raja_herring_ikan">Ikan Raja Herring</string>
+    <string name="raja_herring_asal">Zona Pelagis</string>
+    <string name="raja_herring_deskripsi">Ikan Raja Herring merupakan spesies dari oarfish dari keluarga Regalecidae</string>
+    <string name="zebra_ikan">Ikan Zebra</string>
+    <string name="zebra_asal">Asia Selatan</string>
+    <string name="zebra_deskripsi">Ikan zebra adalah salah satu spesies ikan bermarga Danio dari keluarga siprinide</string>
+    <string name="leter_enam_ikan">Ikan Leter Enam</string>
+    <string name="leter_enam_asal">Indo Pasifik</string>
+    <string name="leter_enam_deskripsi">Paracanthurus hepatus adalah salah satu spesies ikan yang hidup di terumbu karang</string>
+    <string name="molly_ikan">Ikan Molly</string>
+    <string name="molly_asal">Meksiko</string>
+    <string name="molly_deskripsi">Ikan molly (Poecilia sphenops) adalah salah satu jenis ikan peliharaan yang cukup populer di kalangan aquarists</string>
+    // Data profil
+    <string name="nama">Nama  : Khaerun Nasri</string>
+    <string name="nim">NIM  :</string>
+    <string name="prodi">Prodi  :</string>
+    <string name="alamat">Alamat  :</string>
+
+</resources>
